@@ -1,0 +1,35 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    background-color: rgb(154, 198, 237);
+}
+
+.header{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.header p{
+    color: rgb(177, 25, 25);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+button{
+    font-family: 'Nunito', sans-serif;    margin-top: 30px;
+    width: 140px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copyrightfooter{
+    position: fixed;
+    color: rgb(148, 232, 154);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: darkslategrey;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
